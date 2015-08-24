@@ -1,0 +1,7 @@
+Read the hadoop.pages document to kinda understand how to start up hadoop. The scripts are contained in rpgms 
+
+./rpgms 
+  all.sh - Used to aggregate state level data 
+  drg.sh - Used to aggregate drug level data 
+
+By reading the two commands above you can see how the mappers and reducers were used. 

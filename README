@@ -1,0 +1,14 @@
+hadoop - Contains the stuff that ran on hadoop to generate an analysis dataset. Check out the hadoop.pages document to understand how to use the Vagrant setup. 
+
+scripts - All rscripts used in the analysis. 
+  analysis.r - Uses the hadoop output. Runs start to finish 
+  explore.r - Bits and pieces 
+  split.r - When I thought I could do it using just R. Gave up and used hadoop. 
+  functions.r - Some things I pulled out of explore.r to use 
+  psych_drugs.r - Used to find the top 10 psych drugs to use in the analysis
+
+data - All data is in here 
+
+results - Dumps of images from scripts
+
+   
