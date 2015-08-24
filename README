@@ -1,3 +1,5 @@
+AnalysisPlan.pdf contains a summary of what's being done and is the best place to start. 
+
 hadoop - Contains the stuff that ran on hadoop to generate an analysis dataset. Check out the hadoop.pages document to understand how to use the Vagrant setup. 
 
 scripts - All rscripts used in the analysis. 
